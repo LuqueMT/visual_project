@@ -1,6 +1,6 @@
 # Projeto Visual
 
-O **Treveling** é um projeto criado utilizando tecnologias modernas e eficientes para proporcionar uma aplicação web de alta qualidade.
+O **Visual Project** é um projeto criado utilizando tecnologias modernas e eficientes para proporcionar uma aplicação web de alta qualidade.
 
 ## 🚀 Tecnologias Utilizadas
 
