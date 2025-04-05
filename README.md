@@ -1,4 +1,4 @@
-# Projeto Treveling
+# Projeto Visual
 
 O **Treveling** é um projeto criado utilizando tecnologias modernas e eficientes para proporcionar uma aplicação web de alta qualidade.
 
