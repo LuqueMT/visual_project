@@ -1,3 +1,20 @@
+# Projeto Treveling
+
+O **Treveling** é um projeto criado utilizando tecnologias modernas e eficientes para proporcionar uma aplicação web de alta qualidade.
+
+## 🚀 Tecnologias Utilizadas
+
+- **React Vite**: Ferramenta principal para desenvolvimento ágil de interfaces.
+- **Flowbite**: Biblioteca de componentes de interface do usuário (UI) de código aberto, gratuita e baseada no Tailwind CSS.
+- **JavaScript**: Linguagem de programação para funcionalidades dinâmicas.
+
+## 🛠️ Ferramentas e Bibliotecas Adicionais
+
+- **eslint 9**: Ferramenta usada para garantir um código limpo e padronizado.
+- **gh-pages**: Biblioteca empregada para realizar o deploy do projeto de forma simples e eficiente.
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
